@@ -7,6 +7,7 @@ namespace Secao8aula99
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            Console.ReadLine();
         }
     }
 }
